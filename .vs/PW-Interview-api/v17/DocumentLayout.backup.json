@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christian\\source\\repos\\PW-Interview-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{723679D4-27C6-49F7-805B-A9DC8CC5DB83}|PW-Interview-api\\PW-Interview-api.csproj|c:\\users\\christian\\source\\repos\\pw-interview-api\\pw-interview-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723679D4-27C6-49F7-805B-A9DC8CC5DB83}|PW-Interview-api\\PW-Interview-api.csproj|solutionrelative:pw-interview-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Christian\\source\\repos\\PW-Interview-api\\PW-Interview-api\\Program.cs",
+              "RelativeDocumentMoniker": "PW-Interview-api\\Program.cs",
+              "ToolTip": "C:\\Users\\Christian\\source\\repos\\PW-Interview-api\\PW-Interview-api\\Program.cs",
+              "RelativeToolTip": "PW-Interview-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:44:23.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

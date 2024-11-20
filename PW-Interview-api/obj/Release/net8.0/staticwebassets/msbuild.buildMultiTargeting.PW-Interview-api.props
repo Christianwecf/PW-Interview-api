@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PW-Interview-api.props" />
+</Project>

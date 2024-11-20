@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "PW_Interview_api.Controllers.WeatherStationController",
+    "Method": "ExportToCsv",
+    "RelativePath": "api/WeatherStation/export/csv",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PW_Interview_api.Controllers.WeatherStationController",
+    "Method": "ParseJson",
+    "RelativePath": "api/WeatherStation/parse-json",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jsonInput",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PW_Interview_api.Controllers.WeatherStationController",
+    "Method": "ParseText",
+    "RelativePath": "api/WeatherStation/parse-text",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "textInput",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PW_Interview_api.Controllers.WeatherStationController",
+    "Method": "UploadCsvFile",
+    "RelativePath": "api/WeatherStation/upload/csv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
